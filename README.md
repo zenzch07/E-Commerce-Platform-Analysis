@@ -10,7 +10,7 @@ This repository contains a data analysis project focused on an e-commerce platfo
 - **SQL** – database querying and data extraction  
 - **Power BI** – interactive dashboards and visualizations  
 - **Jupyter Notebook** – documented, reproducible analytics workflows
-- 
+
 
 - ## 📊 Project Highlights  
 - **Data Cleaning & Preparation:** Cleaned and integrated raw data into analysis-ready format.  
