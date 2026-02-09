@@ -5,7 +5,7 @@
 This repository contains a data analysis project focused on an e-commerce platform dataset. The goal of the project is to extract meaningful business insights by analyzing patterns in sales, customer behavior, and product performance. The results are visualized using dashboards and reports to support decision making.
 
 
-##  Tools & Technologies  
+##  Tools  
 - **Python** – data cleaning, analysis, and scripting  
 - **SQL** – database querying and data extraction  
 - **Power BI** – interactive dashboards and visualizations  
